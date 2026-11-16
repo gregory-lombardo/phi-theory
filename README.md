@@ -1,4 +1,6 @@
 # phi-theory
+![Théorie Phi - Gregory Lombardo](banner-phi-principal.jpg)
+
 Théorie Phi - Theory of Coherent Flows (E, Phi, I) - d/dt Phi = - grad I - Perelman Ricci flow as a special case
 
 # Théorie Phi - Theory of Coherent Flows
