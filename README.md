@@ -11,6 +11,19 @@ DOI Théorie Phi V1.0 : 10.5281/zenodo.24287548
 GitHub : https://github.com/gregory-lombardo/phi-theory
 Zenodo V1.1 : https://zenodo.org/records/24291589
 
+## Phi Theory V2.1 - NEW
+
+**V1 claimed. V2 proves.**
+
+V2: rigorous definition of I and H, monotonicity proof, Ricci flow as special case, existence theorem, 3 falsifiable predictions.
+
+- **V2.0 DOI:** https://doi.org/10.5281/zenodo.24317177
+- **V2.1 DOI:** https://doi.org/10.5281/zenodo.24318509
+- **V2.1 Release:** https://github.com/gregory-lombardo/phi-theory/releases/tag/v2.1
+
+Files: `manifesto_phi_V2_FR.tex` / `manifesto_phi_V2_EN.tex` / `theorie_phi_v2.lean` / `phi_v2_tests.py`
+
+
 # phi-theory
 ![Théorie Phi - Gregory Lombardo](banner-phi-principal.jpg)
 
