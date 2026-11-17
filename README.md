@@ -1,3 +1,10 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24291589.svg)](https://doi.org/10.5281/zenodo.24291589)
+
+DOI Théorie Phi V1.1 : 10.5281/zenodo.24291589
+DOI Théorie Phi V1.0 : 10.5281/zenodo.24287548
+GitHub : https://github.com/gregory-lombardo/phi-theory
+Zenodo V1.1 : https://zenodo.org/records/24291589
+
 # phi-theory
 ![Théorie Phi - Gregory Lombardo](banner-phi-principal.jpg)
 
