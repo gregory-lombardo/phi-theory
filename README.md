@@ -1,3 +1,6 @@
+- **V5.0 DOI:** https://doi.org/10.5281/zenodo.24402535 (V4) - V5 pending, Cosmic: Consciousness, Time, Multiverse, Life
+- **V5.0 Release:** https://github.com/gregory-lombardo/phi-theory/releases/tag/V5.0
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24291589.svg)](https://doi.org/10.5281/zenodo.24291589)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24301051.svg)](https://doi.org/10.5281/zenodo.24301051)
